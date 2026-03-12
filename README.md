@@ -132,7 +132,7 @@ A `FilledCircle` is a circle whose interior has a color. Like circles, create wi
 * `FilledCircle(z, r)`
 * `FilledCircle(x, y, r)`
 
-The symbols `Disc` and `Disk` are synonyms for `FilledCircle`.
+`Disk` is a synonym for `FilledCircle`.
 
 ### Arcs
 
